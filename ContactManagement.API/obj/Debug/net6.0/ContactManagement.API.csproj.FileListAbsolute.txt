@@ -1,0 +1,79 @@
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.exe
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.deps.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Data.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Models.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Data.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Models.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ContactManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\scopedcss\bundle\ContactManagement.API.styles.css
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.CopyComplete
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\refint\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.genruntimeconfig.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.API\obj\Debug\net6.0\ref\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.exe
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.deps.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.runtimeconfig.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.API.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Data.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Models.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Data.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\bin\Debug\net6.0\ContactManagement.Models.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.sourcelink.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.ContactManagement.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactManagement.API.props
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\scopedcss\bundle\ContactManagement.API.styles.css
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.csproj.CopyComplete
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\refint\ContactManagement.API.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ContactManagement.API.genruntimeconfig.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.API\obj\Debug\net6.0\ref\ContactManagement.API.dll

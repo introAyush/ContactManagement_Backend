@@ -1,0 +1,35 @@
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.deps.json
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Data.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Models.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Data.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Models.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.CopyComplete
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\refint\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\R Systems\Backend\ContactManagement\ContactManagement.Service\obj\Debug\net6.0\ref\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.deps.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Data.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Models.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Data.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\bin\Debug\net6.0\ContactManagement.Models.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.AssemblyReference.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.AssemblyInfoInputs.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.AssemblyInfo.cs
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.sourcelink.json
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.csproj.CopyComplete
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\refint\ContactManagement.Service.dll
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ContactManagement.Service.pdb
+C:\Users\ayush\OneDrive\Desktop\Frontend\ContactManagement_Backend\ContactManagement.Service\obj\Debug\net6.0\ref\ContactManagement.Service.dll
